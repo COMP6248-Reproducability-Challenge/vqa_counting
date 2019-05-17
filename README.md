@@ -14,7 +14,8 @@ We modify the author's code so that we can do more experiments.
 2. Increase the number of targets to 30 rather than 10 in the paper.
 3. Use random length of targets rather than the invariant length of data which is the same as realistic objects.
 4. Add a visualize tool to track the calculation of the graph.
-5. Change the confidence value to 0.1 rather than 0.5 performed in the paper. 6. Obtain a loss curve by changing epochs.1
+5. Change the confidence value to 0.1 rather than 0.5 performed in the paper. 
+6. Obtain a loss curve by changing epochs.1
 
 ## Usage
 The main code implemented by us is `visualisation.py`.
