@@ -1,6 +1,9 @@
 # vqa_counting
 ### Deep Learning Coursework: The COMP6248 Reproducibility Challenge
 
+## Team member
+Team members are: Ziyang Wei, Riling Wei, Tianyi Gao.
+
 ## Introduction
 For this assignment, we did some experiments on the paper of  [Learning to Count Objects in Natural Images for Visual Question Answering](https://openreview.net/forum?id=B12Js_yRb).
 We modify the author's code so that we can do more experiments.
@@ -16,3 +19,4 @@ We modify the author's code so that we can do more experiments.
 ## Usage
 The main code implemented by us is `visualisation.py`.
 For the experiment, we modify the parameter of `train.py` every time.
+
